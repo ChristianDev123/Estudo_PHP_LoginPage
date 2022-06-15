@@ -4,9 +4,9 @@ Primeiro projeto utilizando Banco de dados MySQL. Esta simples tela de login me 
 
 ## Imagens da Aplicação:
 
-![Imagem Login Page](https://github.com/ChristianDev123/Estudo_PHP_LoginPage/blob/main/loginpage_pages-to-jpg-0001.jpg);
+![Imagem Login Page](https://github.com/ChristianDev123/Estudo_PHP_LoginPage/blob/main/loginpage_pages-to-jpg-0001.jpg)
 
-![Imagem Register Page](https://github.com/ChristianDev123/Estudo_PHP_LoginPage/blob/main/loginpage_pages-to-jpg-0002.jpg);
+![Imagem Register Page](https://github.com/ChristianDev123/Estudo_PHP_LoginPage/blob/main/loginpage_pages-to-jpg-0002.jpg)
 
 
 ## Como Instalar Localmente:
